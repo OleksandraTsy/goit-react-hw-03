@@ -1,0 +1,20 @@
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  font-weight: 700;
+  color: rgb(66, 66, 66);
+  font-size: 25px;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}

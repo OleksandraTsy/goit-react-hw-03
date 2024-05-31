@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contactItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgba(83, 83, 83, 0.794);
+    border-radius: 6px;
+    padding: 20px;
+}

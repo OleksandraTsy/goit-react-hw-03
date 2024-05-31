@@ -1,0 +1,25 @@
+.listItem {
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+   gap: 26px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 12px;
+}
+
+.btn {
+    padding: 12px 18px;
+    border: 2px solid rgba(10, 46, 97, 0.794);
+    border-radius: 4px;
+    color: #fff;
+    background-color: #6c82d8;
+}
+
+svg {
+    margin-right: 8px;
+}

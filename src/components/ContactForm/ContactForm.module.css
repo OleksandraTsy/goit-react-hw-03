@@ -1,0 +1,31 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 2px solid rgba(83, 83, 83, 0.794);
+    width: 540px;
+    border-radius: 4px;
+    padding: 26px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+.input {
+    border: 2px solid rgba(83, 83, 83, 0.794);
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.btn {
+    padding: 10px 28px;
+    border: 2px solid rgba(10, 46, 97, 0.794);
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 12px;
+    color:#fff;
+    background-color: #6c82d8;
+}
+
+.error {
+    color: rgb(191, 27, 27);
+}
